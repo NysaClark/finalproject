@@ -1,4 +1,5 @@
 import earth from "./images/earth.png"
+import './css/style.css'
 
 function App() {
   return (
