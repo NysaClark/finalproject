@@ -1,6 +1,6 @@
 import earth from "./images/earth.png"
 import './css/style.css'
-import 'bootstrap/dist/css/bootstrap.min.css';
+// import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
